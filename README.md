@@ -32,7 +32,7 @@ The app is user-friendly and gives visual feedback using emojis (✅ / ❎) for 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Built-in input/output, dictionaries, loops, and conditionals
